@@ -13,7 +13,7 @@ Hệ thống hoạt động theo các bước sau:
 6. **Hiển thị kết quả**: Kết quả nhận diện được hiển thị trực tiếp trên giao diện người dùng.
 
 ## Preview
-
+https://github.com/user-attachments/assets/71da15d5-714a-4dcf-90d4-02c6e006b2bc
 
 ## Dataset
 Dataset gồm các hình ảnh (78000 ảnh) bàn tay tương ứng với 26 ký tự từ **A-Z** ```data/images```
