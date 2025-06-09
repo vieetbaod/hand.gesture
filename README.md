@@ -27,4 +27,5 @@ Dataset gồm các hình ảnh (78000 ảnh) bàn tay tương ứng với 26 ký
 - OpenCV
 - Pytorch
 - Scikit-learn
-- customtkinter (GUI)
+- Pillow
+- Customtkinter (GUI)
