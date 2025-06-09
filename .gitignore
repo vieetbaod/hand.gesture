@@ -1,0 +1,18 @@
+# Project
+data/csv/*.csv
+data/images/*
+!data/images/.gitkeep
+models/*
+logs/*.log
+**/__pycache__/
+
+
+# Virtualenv
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
